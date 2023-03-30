@@ -39,7 +39,7 @@ THe goal of this project is to create an appolication that will generate a stron
 
 ## Installation:
 - Download and clone my repo through Github via https://github.com/nguyet33/my-password-maker.-
--OR you can launch the live application at : 
+-OR you can launch the live application at : https://nguyet33.github.io/my-password-maker.-/ 
 
 ## Usage:
 Step 1: Open the application 
