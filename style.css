@@ -10,6 +10,7 @@ body,
   height: 100%;
   margin: 0;
   padding: 0;
+  background-color: teal;
 }
 
 body {
@@ -27,7 +28,7 @@ header {
   text-align: center;
   padding: 20px;
   padding-top: 0px;
-  color: hsl(206, 17%, 28%);
+  color: black;
 }
 
 .card {
@@ -108,7 +109,7 @@ button[disabled] {
   padding-left: 15px;
   padding-right: 15px;
   padding-bottom: 85px;
-  font-size: 1.2rem;
+  font-size: 3rem;
   text-align: center;
   margin-top: 10px;
   margin-bottom: 10px;

@@ -35,14 +35,17 @@ THEN the password is either displayed in an alert or written to the page
 - [Questions](#questions)
 
 ## Description:
-THe goal of this project is to create an appolication that will generate a strong password for users based upon the desirable requirement.  
+THe goal of this project is to create an appolication that will generate a strong password for users based upon the desirable requirement. Here I learn how to call function and build on top of code that was given to me. I was able to learn how to declare variables, create prompts for users input, then take those input and confirm with my checkpoint to then create a new desirable password. I learn how to use a for loop to create a randomization to my application. Ontop of that, I learned to to concat the user's choices to the variable that was declared previously. 
 
 ## Installation:
-- Download and clone my repo through Github via https://github.com/nguyet33/Porfolio.React
+- Download and clone my repo through Github via https://github.com/nguyet33/my-password-maker.-
 -OR you can launch the live application at : 
 
 ## Usage:
-
+Step 1: Open the application 
+Step 2: Click on generate password 
+Step 3: Answer all of the prompt to allow application to know how to create the password with the requirements of the users 
+Step 4: Once all the prompt is answered, a strong and new password is generated in the box. 
 
 ## License:
 MIT
@@ -52,6 +55,9 @@ No contribution is allow as this is my personal page
 
 ## Tests:
 None
+
+## Screenshot of Application 
+![Screenshot 2023-03-30 at 4 21 47 PM](https://user-images.githubusercontent.com/120419348/228986505-89520464-69b5-489c-9841-0e5bbf79eb45.png)
 
 ## Questions:
 - Github: [nguyet33](https://github.com/nguyet33)
