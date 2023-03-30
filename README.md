@@ -51,7 +51,8 @@ Step 4: Once all the prompt is answered, a strong and new password is generated 
 MIT
 
 ## Contributing:
-No contribution is allow as this is my personal page
+Douglas Leeder - StackOverFlow (For concat method to var)
+ChatGPT - AI Technology (Answering basic question of Javascript but was much needed)
 
 ## Tests:
 None
